@@ -1,7 +1,8 @@
 # depslib dependency file v1.0
-1789025514 source:/Users/janhajdarowicz/Desktop/hajdarowicz_jan_zadanialab03/zadania/main.cpp
+1789027521 source:/Users/janhajdarowicz/Desktop/hajdarowicz_jan_zadanialab03/zadania/main.cpp
 	<iostream>
 	<string>
-	<sstream>
-	<chrono>
+	<vector>
+	<cstdlib>
+	<ctime>
 
